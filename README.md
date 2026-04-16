@@ -6,6 +6,13 @@
 ![Scrapy](https://img.shields.io/badge/Scrapy-Framework-success)
 ![Selenium](https://img.shields.io/badge/Selenium-Dynamic%20Scraping-yellowgreen)
 
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue?logo=numpy)
+![HTML](https://img.shields.io/badge/HTML-Markup-red?logo=html5)
+![CSS](https://img.shields.io/badge/CSS-Styling-blue?logo=css3)
+![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-lightgrey?logo=github)
+![SQL](https://img.shields.io/badge/SQL-Database-blue)
+
 ## ✨ Who Am I
 
 I am a passionate Python Developer & Data Engineer 🌟 specializing in Web Scraping, Data Extraction, and Automation. With hands-on experience in transforming raw web data into structured, actionable insights, I help businesses streamline processes and make data-driven decisions.
