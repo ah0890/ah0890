@@ -41,25 +41,25 @@ I continuously explore new technologies and techniques to build more **reliable,
 ⚡ Automate **dynamic and JavaScript-heavy websites**\
 🤖 Build **Browser Automation** with Selenium and Playwright\
 🔄 Automate repetitive **business processes and workflows**\
-🧠 Develop high-performance crawlers using **Scrapy**
-📊 Clean, structure, and transform data using **Pandas, SQL & ETL**
-🔌 Integrate **REST APIs** and connect different systems
-🛠️ Build **Custom Business Tools & Python Applications**
-🌍 Develop **Web Applications & Backend Solutions**
-🧩 Build **Google Chrome Extensions & Browser Utilities**
+🧠 Develop high-performance crawlers using **Scrapy**\
+📊 Clean, structure, and transform data using **Pandas, SQL & ETL**\
+🔌 Integrate **REST APIs** and connect different systems\
+🛠️ Build **Custom Business Tools & Python Applications**\
+🌍 Develop **Web Applications & Backend Solutions**\
+🧩 Build **Google Chrome Extensions & Browser Utilities**\
 🤖 Create **AI-powered automation and integrations**
 
 ---
 
 ## 🎯 What Makes Me Different
 
-✅ Clean, maintainable, and production-ready code
-✅ Scalable web scraping and automation solutions
-✅ Experience with static and dynamic websites
-✅ Practical problem-solving for complex web environments
-✅ Focus on data accuracy and structured output
-✅ Ability to turn repetitive manual tasks into automated workflows
-✅ Experience building custom tools around specific business requirements
+✅ Clean, maintainable, and production-ready code\
+✅ Scalable web scraping and automation solutions\
+✅ Experience with static and dynamic websites\
+✅ Practical problem-solving for complex web environments\
+✅ Focus on data accuracy and structured output\
+✅ Ability to turn repetitive manual tasks into automated workflows\
+✅ Experience building custom tools around specific business requirements\
 ✅ Strong focus on reliability, performance, and maintainability
 
 ---
@@ -92,10 +92,10 @@ Whether it's collecting data from the web, automating a browser task, connecting
 
 ## 🎉 Fun Facts
 
-🥘 I add a touch of **Pakistani Tarka** to everything I do 🇵🇰
-☕ Chai + coding = perfect productivity combo
-🚀 I enjoy solving challenging scraping and automation problems
-💡 Always exploring new tools, technologies, and smarter techniques
+🥘 I add a touch of **Pakistani Tarka** to everything I do 🇵🇰\
+☕ Chai + coding = perfect productivity combo\
+🚀 I enjoy solving challenging scraping and automation problems\
+💡 Always exploring new tools, technologies, and smarter techniques\
 🛠️ I enjoy building useful tools that solve real-world problems
 
 ---
