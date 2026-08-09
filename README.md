@@ -1,74 +1,102 @@
 # 🚀 About Me
 
-![Python](https://img.shields.io/badge/Python-Expert-blue?logo=python)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-Specialist-green)
-![Automation](https://img.shields.io/badge/Automation-Workflow-orange)
-![Scrapy](https://img.shields.io/badge/Scrapy-Framework-success)
-![Selenium](https://img.shields.io/badge/Selenium-Dynamic%20Scraping-yellowgreen)
-
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-black?logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-Numerical-blue?logo=numpy)
-![HTML](https://img.shields.io/badge/HTML-Markup-red?logo=html5)
-![CSS](https://img.shields.io/badge/CSS-Styling-blue?logo=css3)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-lightgrey?logo=github)
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
-
 ## ✨ Who Am I
 
-I am a passionate Python Developer & Data Engineer 🌟 specializing in Web Scraping, Data Extraction, and Automation. With hands-on experience in transforming raw web data into structured, actionable insights, I help businesses streamline processes and make data-driven decisions.
+I am a **Python Automation Engineer & Data Engineer** specializing in **Web Scraping, Data Extraction, Browser Automation, and Business Process Automation**.
 
-My expertise extends to Data Engineering, Data Science, and Machine Learning, allowing me to not only collect data but also analyze and leverage it for meaningful outcomes. I’m always driven to build efficient, scalable, and innovative solutions.
+With hands-on experience building systems that transform raw online data into **clean, structured, and actionable information**, I help businesses automate repetitive processes, improve data workflows, and build practical software solutions.
+
+Beyond scraping, I also build **Python applications, custom business tools, web applications, browser extensions, API integrations, and AI-powered automation workflows**.
 
 ---
 
 ## 🌍 My Journey
 
-From simple scripts to advanced scraping systems, I have developed expertise in handling both **static and dynamic websites**.
+My journey started with simple Python scripts and gradually evolved into building **scalable scraping systems, automation workflows, data pipelines, and custom applications**.
 
-Using tools like:
+I work with both **static and dynamic websites**, including JavaScript-heavy platforms and complex web environments.
 
-* **Requests**
-* **Beautiful Soup**
+My core tools include:
+
+* **Python**
 * **Selenium**
+* **Playwright**
 * **Scrapy**
+* **BeautifulSoup**
+* **Requests**
+* **Pandas**
+* **SQL**
+* **REST APIs**
+* **ETL**
+* **JavaScript**
+* **PHP / WordPress**
 
-I build efficient, scalable, and reliable data extraction solutions tailored to real-world problems. 📊💡
+I continuously explore new technologies and techniques to build more **reliable, maintainable, and scalable solutions**.
 
 ---
 
 ## 💻 What I Do
 
-  🌐 Build scalable web scraping systems\
-  ⚡ Extract data from complex & JavaScript-heavy websites\
-  🔄 Automate workflows and repetitive tasks\
-  🧠 Develop high-performance crawlers using Scrapy\
-  📊 Clean, structure, and deliver ready-to-use data
+🌐 Build scalable **Web Scraping & Data Extraction** systems
+⚡ Automate **dynamic and JavaScript-heavy websites**
+🤖 Build **Browser Automation** with Selenium and Playwright
+🔄 Automate repetitive **business processes and workflows**
+🧠 Develop high-performance crawlers using **Scrapy**
+📊 Clean, structure, and transform data using **Pandas, SQL & ETL**
+🔌 Integrate **REST APIs** and connect different systems
+🛠️ Build **Custom Business Tools & Python Applications**
+🌍 Develop **Web Applications & Backend Solutions**
+🧩 Build **Google Chrome Extensions & Browser Utilities**
+🤖 Create **AI-powered automation and integrations**
 
 ---
 
 ## 🎯 What Makes Me Different
 
-  ✅ Clean, maintainable, production-ready code\
-  ✅ Fast and optimized scraping solutions\
-  ✅ Ability to bypass common scraping challenges\
-  ✅ Focus on accuracy and structured output\
-  ✅ Strong problem-solving mindset
+✅ Clean, maintainable, and production-ready code
+✅ Scalable web scraping and automation solutions
+✅ Experience with static and dynamic websites
+✅ Practical problem-solving for complex web environments
+✅ Focus on data accuracy and structured output
+✅ Ability to turn repetitive manual tasks into automated workflows
+✅ Experience building custom tools around specific business requirements
+✅ Strong focus on reliability, performance, and maintainability
+
+---
+
+## 🔧 Areas I Work In
+
+**Web Scraping & Data Extraction**
+**Browser Automation**
+**Python Automation**
+**AI Automation & Integrations**
+**API Integration**
+**ETL & Data Processing**
+**Custom Business Tools**
+**Python Applications**
+**Web Applications**
+**Chrome Extensions**
+**Business Process Automation**
 
 ---
 
 ## 🌟 My Vision
 
-I believe in the power of **technology, automation, and data** to transform businesses and lives.
-My mission is to help individuals and organizations make smarter decisions using data-driven solutions. 🤝✨
+I believe in the power of **technology, automation, AI, and data** to transform the way businesses operate.
+
+My goal is to build practical software solutions that **save time, reduce repetitive work, improve data accessibility, and turn complex processes into simple automated workflows**.
+
+Whether it's collecting data from the web, automating a browser task, connecting APIs, building a custom Python tool, or creating an AI-powered workflow, I enjoy turning real-world problems into efficient technical solutions.
 
 ---
 
 ## 🎉 Fun Facts
 
-  🥘 I add a touch of **Pakistani Tarka** to everything I do 🇵🇰\
-  ☕ Chai + coding = perfect productivity combo\
-  🚀 I enjoy solving challenging scraping problems\
-  💡 Always exploring new tools and smarter techniques
+🥘 I add a touch of **Pakistani Tarka** to everything I do 🇵🇰
+☕ Chai + coding = perfect productivity combo
+🚀 I enjoy solving challenging scraping and automation problems
+💡 Always exploring new tools, technologies, and smarter techniques
+🛠️ I enjoy building useful tools that solve real-world problems
 
 ---
 
@@ -76,26 +104,19 @@ My mission is to help individuals and organizations make smarter decisions using
 
 If you're looking for:
 
-* Reliable web scraping solutions
-* Automation of repetitive tasks
-* Clean and structured datasets
+* **Web Scraping & Data Extraction**
+* **Browser Automation**
+* **Python Automation**
+* **AI Automation & Integration**
+* **API Integration**
+* **Custom Business Tools**
+* **Python Applications**
+* **Web Applications**
+* **Chrome Extensions**
+* **Data Processing & ETL**
+* **Automation of repetitive business tasks**
 
-👉 Let’s connect and turn the web into valuable data! 🌐✨\
-Email: Amjadhassan.engr@gmail.com
+👉 Let's connect and turn complex processes and online data into **useful, structured, and automated solutions**! 🌐🚀
 
-## Hi there 👋
+📧 Email: [Amjadhassan.engr@gmail.com](mailto:Amjadhassan.engr@gmail.com)
 
-<!--
-**ah0890/ah0890** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
