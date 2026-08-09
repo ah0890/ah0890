@@ -37,10 +37,14 @@ I continuously explore new technologies and techniques to build more **reliable,
 
 ## 💻 What I Do
 
-🌐 Build scalable **Web Scraping & Data Extraction** systems
-⚡ Automate **dynamic and JavaScript-heavy websites**
-🤖 Build **Browser Automation** with Selenium and Playwright
-🔄 Automate repetitive **business processes and workflows**
+🌐 Build scalable **Web Scraping & Data Extraction** systems\
+
+⚡ Automate **dynamic and JavaScript-heavy websites**\
+
+🤖 Build **Browser Automation** with Selenium and Playwright\
+
+🔄 Automate repetitive **business processes and workflows**\
+
 🧠 Develop high-performance crawlers using **Scrapy**
 📊 Clean, structure, and transform data using **Pandas, SQL & ETL**
 🔌 Integrate **REST APIs** and connect different systems
