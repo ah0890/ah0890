@@ -66,16 +66,16 @@ I continuously explore new technologies and techniques to build more **reliable,
 
 ## 🔧 Areas I Work In
 
-**Web Scraping & Data Extraction**
-**Browser Automation**
-**Python Automation**
-**AI Automation & Integrations**
-**API Integration**
-**ETL & Data Processing**
-**Custom Business Tools**
-**Python Applications**
-**Web Applications**
-**Chrome Extensions**
+**Web Scraping & Data Extraction**\
+**Browser Automation**\
+**Python Automation**\
+**AI Automation & Integrations**\
+**API Integration**\
+**ETL & Data Processing**\
+**Custom Business Tools**\
+**Python Applications**\
+**Web Applications**\
+**Chrome Extensions**\
 **Business Process Automation**
 
 ---
