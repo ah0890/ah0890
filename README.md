@@ -109,4 +109,4 @@ If your team is spending hours on:
 
 👉 **Send me a message.** I'll tell you honestly if it can be automated and how.
 
-📧 **Email:** [Amjadhassan.engr@gmail.com](mailto:Amjadhassan.engr@gmail.com)
+📧 **Email:** [Amjadhassan.engr@gmail.com](mailto:Amjadhassan.iam@gmail.com)
