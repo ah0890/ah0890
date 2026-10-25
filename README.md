@@ -4,7 +4,7 @@
 
 I build **Python & AI automation** that turns hours of copy-paste, price checking, invoice reading and data entry into tools that run on their own, with results delivered in **Excel, Google Sheets or a simple dashboard**.
 
-📧 **[Amjadhassan.iam@gmail.com](mailto:Amjadhassan.engr@gmail.com)** · Have a task your team repeats every day or week? Send me a message.
+📧 **[Amjadhassan.iam@gmail.com](mailto:Amjadhassan.engr@gmail.com)**· Have a task your team repeats every day or week? Send me a message.
 
 ---
 
